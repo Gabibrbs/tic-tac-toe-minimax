@@ -1,0 +1,11 @@
+descricao,tabuleiro,jogador_a_jogar,jogada_esperada
+Vitória imediata (o adversário também ameaçava ganhar),XX-OO----,X,3
+Bloquear a linha de cima,XX--O----,O,3
+Bloquear a coluna da esquerda,X---O-X--,O,4
+Bloquear a coluna do meio,XO--O---X,X,8
+Responder a uma abertura em canto,X--------,O,5
+Vitória imediata do O (em vez de bloquear),XX-OO-X--,O,6
+Vitória na diagonal,OXXXOO-X-,O,9
+Vitória na linha do meio,X---OOX-X,O,4
+Vitória na coluna da direita (que também bloqueia),O--XOXO-X,X,3
+Criar um duplo ataque,XXOO-----,X,5
